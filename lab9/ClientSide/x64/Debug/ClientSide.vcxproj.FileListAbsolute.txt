@@ -1,0 +1,2 @@
+C:\Users\quake1011\Desktop\lab7\ClientSide\x64\Debug\ClientSide.exe
+C:\Users\quake1011\Desktop\lab9\ClientSide\x64\Debug\ClientSide.exe
